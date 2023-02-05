@@ -6,7 +6,7 @@
 
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
-
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/12145718767) <br>
 
 
 - 🔭 I’m currently working on **Servicios profesionales de Ingenieria SPI Guatemala**
@@ -19,7 +19,7 @@
 <h3 align="left">Skills:</h3>
 
 <h5>Programming Languages</h5>
-<p align="left"> 
+<p align="left" style="background-color:white;"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
@@ -109,8 +109,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waltercoti" height="30" width="40" />
 </a>
 <a href="mailto:wgustavocoti@gmail.com" target="blank">
-    <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" alt="waltercoti" height="40" width="40" />
+    <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" alt="waltercoti" height="40" width="90" />
 </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=waltercoti&label=Profile%20views&color=0e75b6&style=flat" alt="waltercoti" /> </p>
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=waltercoti&label=Profile%20views&color=0e75b6&style=flat" alt="waltercoti" /> 
+</p>
